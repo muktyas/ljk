@@ -1,0 +1,6 @@
+{
+  "name": "Scanner LJK Lembar Jawaban",
+  "description": "Aplikasi pemindai dan koreksi otomatis lembar jawaban siswa (LJK) berbasis ArUco, dilengkapi generator cetak LJK A4 dan integrasi paket soal acak.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
